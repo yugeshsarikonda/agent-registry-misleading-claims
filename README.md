@@ -45,3 +45,8 @@ sets it beside the claude-sonnet-5 held-out results.
 
 Provider answers and router decisions were produced by calls to hosted language models. Re-running
 will not reproduce the trial-level rows exactly. The files here are the record of what was run.
+
+## License
+
+Released under **CC BY 4.0** (`LICENSE`). Retain attribution to Yugesh Sarikonda when reusing
+these materials.
