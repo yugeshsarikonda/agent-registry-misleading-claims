@@ -1,0 +1,535 @@
+{
+ "tasks": [
+  {
+   "task_id": 0,
+   "question": "Table:\n  r1: A=12, B=54, C=5\n  r2: A=13, B=83, C=5\n  r3: A=18, B=21, C=5\n  r4: A=11, B=80, C=6\n  r5: A=15, B=20, C=5\n  r6: A=16, B=51, C=5\n  r7: A=5, B=82, C=8\n  r8: A=2, B=36, C=7\n  r9: A=6, B=40, C=7\n  r10: A=6, B=34, C=6\n  r11: A=17, B=74, C=6\n  r12: A=18, B=32, C=4\n  r13: A=1, B=98, C=8\n\nAmong rows where A > 9, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 924
+  },
+  {
+   "task_id": 1,
+   "question": "Table:\n  r1: A=4, B=83, C=6\n  r2: A=17, B=66, C=8\n  r3: A=12, B=49, C=3\n  r4: A=3, B=55, C=7\n  r5: A=1, B=33, C=4\n  r6: A=9, B=54, C=5\n  r7: A=1, B=43, C=2\n  r8: A=3, B=32, C=6\n  r9: A=10, B=98, C=7\n  r10: A=19, B=11, C=6\n  r11: A=9, B=18, C=3\n  r12: A=16, B=27, C=5\n  r13: A=18, B=96, C=3\n\nAmong rows where A > 13, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1017
+  },
+  {
+   "task_id": 2,
+   "question": "Table:\n  r1: A=10, B=31, C=6\n  r2: A=18, B=58, C=2\n  r3: A=17, B=74, C=2\n  r4: A=14, B=55, C=6\n  r5: A=13, B=64, C=4\n  r6: A=1, B=87, C=6\n  r7: A=15, B=71, C=4\n  r8: A=9, B=42, C=3\n  r9: A=2, B=67, C=3\n\nAmong rows where A > 9, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1056
+  },
+  {
+   "task_id": 3,
+   "question": "Table:\n  r1: A=8, B=95, C=8\n  r2: A=11, B=23, C=8\n  r3: A=19, B=59, C=3\n  r4: A=8, B=49, C=2\n  r5: A=12, B=41, C=6\n  r6: A=9, B=31, C=2\n  r7: A=12, B=14, C=4\n  r8: A=9, B=45, C=5\n  r9: A=13, B=83, C=8\n  r10: A=11, B=18, C=2\n  r11: A=13, B=46, C=6\n\nAmong rows where A > 10, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 940
+  },
+  {
+   "task_id": 4,
+   "question": "Table:\n  r1: A=17, B=31, C=4\n  r2: A=10, B=59, C=3\n  r3: A=18, B=14, C=3\n  r4: A=12, B=26, C=6\n  r5: A=18, B=43, C=2\n  r6: A=19, B=88, C=8\n  r7: A=11, B=96, C=8\n  r8: A=6, B=67, C=5\n  r9: A=3, B=61, C=5\n  r10: A=11, B=60, C=7\n  r11: A=4, B=15, C=5\n  r12: A=15, B=43, C=5\n  r13: A=18, B=97, C=4\n\nAmong rows where A > 9, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 2280
+  },
+  {
+   "task_id": 5,
+   "question": "Table:\n  r1: A=1, B=19, C=4\n  r2: A=14, B=68, C=2\n  r3: A=8, B=74, C=6\n  r4: A=16, B=48, C=3\n  r5: A=1, B=17, C=6\n  r6: A=18, B=56, C=8\n  r7: A=3, B=48, C=4\n  r8: A=8, B=87, C=8\n  r9: A=19, B=70, C=5\n\nAmong rows where A > 10, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1078
+  },
+  {
+   "task_id": 6,
+   "question": "Table:\n  r1: A=18, B=22, C=5\n  r2: A=19, B=85, C=2\n  r3: A=3, B=47, C=7\n  r4: A=8, B=85, C=3\n  r5: A=18, B=82, C=3\n  r6: A=6, B=96, C=3\n  r7: A=1, B=11, C=3\n  r8: A=11, B=87, C=8\n  r9: A=15, B=65, C=4\n  r10: A=15, B=53, C=2\n  r11: A=16, B=80, C=3\n  r12: A=13, B=94, C=4\n\nAmong rows where A > 8, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 1072
+  },
+  {
+   "task_id": 7,
+   "question": "Table:\n  r1: A=17, B=55, C=4\n  r2: A=11, B=94, C=4\n  r3: A=19, B=56, C=7\n  r4: A=7, B=90, C=8\n  r5: A=3, B=89, C=2\n  r6: A=6, B=78, C=2\n  r7: A=2, B=76, C=3\n  r8: A=19, B=61, C=5\n  r9: A=5, B=61, C=3\n  r10: A=9, B=83, C=5\n  r11: A=4, B=47, C=5\n  r12: A=19, B=94, C=8\n  r13: A=4, B=88, C=7\n\nAmong rows where A > 8, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1935
+  },
+  {
+   "task_id": 8,
+   "question": "Table:\n  r1: A=13, B=28, C=8\n  r2: A=13, B=25, C=5\n  r3: A=6, B=14, C=3\n  r4: A=14, B=51, C=6\n  r5: A=3, B=28, C=5\n  r6: A=12, B=36, C=6\n  r7: A=18, B=91, C=4\n  r8: A=19, B=82, C=4\n  r9: A=6, B=84, C=2\n  r10: A=7, B=62, C=8\n  r11: A=12, B=20, C=7\n  r12: A=8, B=76, C=5\n  r13: A=14, B=63, C=3\n\nAmong rows where A > 11, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 998
+  },
+  {
+   "task_id": 9,
+   "question": "Table:\n  r1: A=2, B=84, C=4\n  r2: A=4, B=20, C=2\n  r3: A=14, B=91, C=3\n  r4: A=2, B=91, C=2\n  r5: A=13, B=71, C=5\n  r6: A=8, B=81, C=2\n  r7: A=1, B=75, C=3\n  r8: A=15, B=88, C=3\n  r9: A=14, B=89, C=6\n  r10: A=16, B=56, C=3\n  r11: A=18, B=82, C=8\n  r12: A=14, B=91, C=3\n\nAmong rows where A > 13, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1463
+  },
+  {
+   "task_id": 10,
+   "question": "Table:\n  r1: A=1, B=37, C=6\n  r2: A=6, B=60, C=3\n  r3: A=12, B=93, C=3\n  r4: A=3, B=86, C=7\n  r5: A=4, B=57, C=6\n  r6: A=3, B=67, C=4\n  r7: A=13, B=82, C=2\n  r8: A=2, B=48, C=3\n  r9: A=1, B=68, C=7\n  r10: A=9, B=29, C=5\n\nAmong rows where A > 13, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 164
+  },
+  {
+   "task_id": 11,
+   "question": "Table:\n  r1: A=1, B=37, C=6\n  r2: A=1, B=68, C=6\n  r3: A=11, B=86, C=4\n  r4: A=7, B=48, C=6\n  r5: A=16, B=80, C=3\n  r6: A=7, B=37, C=6\n  r7: A=3, B=21, C=7\n  r8: A=3, B=83, C=2\n  r9: A=6, B=78, C=5\n  r10: A=12, B=76, C=6\n  r11: A=3, B=88, C=2\n  r12: A=16, B=54, C=6\n  r13: A=6, B=27, C=8\n\nAmong rows where A > 12, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 564
+  },
+  {
+   "task_id": 12,
+   "question": "Table:\n  r1: A=7, B=67, C=8\n  r2: A=7, B=68, C=6\n  r3: A=2, B=29, C=6\n  r4: A=14, B=24, C=2\n  r5: A=6, B=60, C=6\n  r6: A=17, B=66, C=4\n  r7: A=9, B=94, C=7\n  r8: A=17, B=89, C=2\n  r9: A=3, B=43, C=3\n  r10: A=4, B=24, C=6\n  r11: A=7, B=32, C=6\n  r12: A=1, B=88, C=7\n  r13: A=10, B=50, C=5\n\nAmong rows where A > 9, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 514
+  },
+  {
+   "task_id": 13,
+   "question": "Table:\n  r1: A=13, B=62, C=3\n  r2: A=11, B=17, C=7\n  r3: A=6, B=40, C=8\n  r4: A=5, B=76, C=2\n  r5: A=14, B=78, C=5\n  r6: A=5, B=61, C=2\n  r7: A=4, B=87, C=7\n  r8: A=7, B=36, C=2\n  r9: A=17, B=24, C=6\n  r10: A=9, B=16, C=2\n\nAmong rows where A > 11, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 720
+  },
+  {
+   "task_id": 14,
+   "question": "Table:\n  r1: A=6, B=88, C=7\n  r2: A=16, B=87, C=7\n  r3: A=6, B=43, C=6\n  r4: A=15, B=37, C=4\n  r5: A=16, B=73, C=4\n  r6: A=10, B=50, C=7\n  r7: A=12, B=18, C=2\n  r8: A=17, B=68, C=3\n  r9: A=4, B=74, C=5\n  r10: A=1, B=16, C=8\n  r11: A=9, B=79, C=7\n  r12: A=4, B=57, C=7\n\nAmong rows where A > 7, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 1162
+  },
+  {
+   "task_id": 15,
+   "question": "Table:\n  r1: A=15, B=14, C=7\n  r2: A=11, B=81, C=7\n  r3: A=5, B=50, C=2\n  r4: A=15, B=67, C=7\n  r5: A=13, B=21, C=6\n  r6: A=18, B=74, C=4\n  r7: A=11, B=46, C=4\n  r8: A=3, B=98, C=6\n  r9: A=17, B=66, C=3\n  r10: A=4, B=93, C=3\n\nAmong rows where A > 12, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1089
+  },
+  {
+   "task_id": 16,
+   "question": "Table:\n  r1: A=15, B=40, C=4\n  r2: A=7, B=85, C=2\n  r3: A=14, B=48, C=7\n  r4: A=4, B=58, C=3\n  r5: A=9, B=19, C=8\n  r6: A=3, B=44, C=4\n  r7: A=8, B=96, C=4\n  r8: A=7, B=58, C=7\n  r9: A=8, B=11, C=2\n  r10: A=10, B=74, C=2\n  r11: A=1, B=78, C=7\n\nAmong rows where A > 13, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 496
+  },
+  {
+   "task_id": 17,
+   "question": "Table:\n  r1: A=3, B=48, C=6\n  r2: A=7, B=18, C=8\n  r3: A=14, B=70, C=5\n  r4: A=18, B=97, C=8\n  r5: A=16, B=19, C=7\n  r6: A=8, B=20, C=7\n  r7: A=18, B=25, C=3\n  r8: A=5, B=25, C=5\n  r9: A=3, B=57, C=8\n\nAmong rows where A > 12, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 1126
+  },
+  {
+   "task_id": 18,
+   "question": "Table:\n  r1: A=15, B=32, C=4\n  r2: A=3, B=50, C=7\n  r3: A=2, B=74, C=3\n  r4: A=5, B=15, C=5\n  r5: A=9, B=93, C=2\n  r6: A=3, B=98, C=4\n  r7: A=1, B=35, C=2\n  r8: A=3, B=89, C=8\n  r9: A=6, B=32, C=5\n  r10: A=8, B=91, C=7\n  r11: A=6, B=68, C=2\n  r12: A=9, B=31, C=3\n  r13: A=14, B=15, C=3\n\nAmong rows where A > 10, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 173
+  },
+  {
+   "task_id": 19,
+   "question": "Table:\n  r1: A=10, B=55, C=3\n  r2: A=18, B=72, C=3\n  r3: A=4, B=65, C=2\n  r4: A=4, B=52, C=4\n  r5: A=13, B=57, C=2\n  r6: A=17, B=98, C=5\n  r7: A=6, B=45, C=8\n  r8: A=5, B=94, C=8\n  r9: A=11, B=80, C=8\n  r10: A=15, B=26, C=3\n  r11: A=6, B=87, C=3\n  r12: A=16, B=44, C=6\n\nAmong rows where A > 13, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1048
+  },
+  {
+   "task_id": 20,
+   "question": "Table:\n  r1: A=14, B=40, C=2\n  r2: A=10, B=63, C=7\n  r3: A=9, B=97, C=7\n  r4: A=10, B=15, C=7\n  r5: A=11, B=55, C=8\n  r6: A=18, B=31, C=7\n  r7: A=16, B=91, C=7\n  r8: A=1, B=51, C=6\n  r9: A=15, B=86, C=4\n  r10: A=6, B=88, C=7\n\nAmong rows where A > 11, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1278
+  },
+  {
+   "task_id": 21,
+   "question": "Table:\n  r1: A=14, B=96, C=6\n  r2: A=7, B=39, C=5\n  r3: A=6, B=85, C=7\n  r4: A=7, B=93, C=2\n  r5: A=4, B=62, C=3\n  r6: A=2, B=23, C=6\n  r7: A=15, B=36, C=7\n  r8: A=15, B=55, C=5\n  r9: A=4, B=34, C=6\n  r10: A=8, B=18, C=7\n  r11: A=18, B=25, C=6\n  r12: A=16, B=95, C=7\n  r13: A=12, B=44, C=8\n\nAmong rows where A > 7, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1593
+  },
+  {
+   "task_id": 22,
+   "question": "Table:\n  r1: A=8, B=28, C=2\n  r2: A=1, B=13, C=6\n  r3: A=14, B=59, C=8\n  r4: A=5, B=57, C=7\n  r5: A=16, B=78, C=5\n  r6: A=14, B=21, C=5\n  r7: A=7, B=15, C=4\n  r8: A=9, B=75, C=2\n  r9: A=13, B=74, C=7\n  r10: A=8, B=81, C=5\n\nAmong rows where A > 10, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1485
+  },
+  {
+   "task_id": 23,
+   "question": "Table:\n  r1: A=19, B=20, C=3\n  r2: A=2, B=66, C=8\n  r3: A=19, B=16, C=5\n  r4: A=11, B=59, C=3\n  r5: A=8, B=77, C=7\n  r6: A=11, B=16, C=5\n  r7: A=1, B=80, C=7\n  r8: A=18, B=62, C=7\n  r9: A=12, B=38, C=8\n  r10: A=1, B=29, C=6\n  r11: A=18, B=11, C=2\n  r12: A=9, B=27, C=5\n\nAmong rows where A > 9, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 995
+  },
+  {
+   "task_id": 24,
+   "question": "Table:\n  r1: A=9, B=47, C=4\n  r2: A=16, B=46, C=4\n  r3: A=12, B=18, C=5\n  r4: A=1, B=59, C=2\n  r5: A=16, B=35, C=7\n  r6: A=7, B=45, C=8\n  r7: A=13, B=24, C=5\n  r8: A=13, B=76, C=2\n  r9: A=13, B=92, C=4\n\nAmong rows where A > 7, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 985
+  },
+  {
+   "task_id": 25,
+   "question": "Table:\n  r1: A=8, B=86, C=4\n  r2: A=8, B=86, C=2\n  r3: A=17, B=35, C=3\n  r4: A=2, B=61, C=4\n  r5: A=15, B=53, C=4\n  r6: A=19, B=59, C=6\n  r7: A=9, B=84, C=4\n  r8: A=15, B=69, C=3\n  r9: A=14, B=77, C=5\n  r10: A=18, B=70, C=5\n  r11: A=1, B=32, C=8\n  r12: A=14, B=61, C=5\n  r13: A=8, B=43, C=4\n\nAmong rows where A > 8, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1089
+  },
+  {
+   "task_id": 26,
+   "question": "Table:\n  r1: A=8, B=37, C=3\n  r2: A=5, B=53, C=8\n  r3: A=12, B=93, C=4\n  r4: A=15, B=71, C=3\n  r5: A=19, B=21, C=7\n  r6: A=6, B=16, C=5\n  r7: A=17, B=29, C=7\n  r8: A=17, B=87, C=3\n  r9: A=8, B=30, C=5\n  r10: A=7, B=37, C=7\n  r11: A=6, B=58, C=7\n  r12: A=7, B=54, C=6\n  r13: A=17, B=16, C=5\n\nAmong rows where A > 12, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 677
+  },
+  {
+   "task_id": 27,
+   "question": "Table:\n  r1: A=11, B=75, C=6\n  r2: A=6, B=62, C=4\n  r3: A=4, B=82, C=4\n  r4: A=11, B=53, C=3\n  r5: A=7, B=49, C=6\n  r6: A=10, B=31, C=8\n  r7: A=14, B=15, C=3\n  r8: A=16, B=22, C=4\n  r9: A=15, B=70, C=5\n  r10: A=10, B=61, C=3\n  r11: A=2, B=31, C=5\n  r12: A=4, B=42, C=8\n\nAmong rows where A > 11, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 438
+  },
+  {
+   "task_id": 28,
+   "question": "Table:\n  r1: A=2, B=67, C=2\n  r2: A=19, B=47, C=4\n  r3: A=7, B=96, C=7\n  r4: A=6, B=78, C=7\n  r5: A=17, B=44, C=4\n  r6: A=6, B=73, C=5\n  r7: A=5, B=81, C=7\n  r8: A=5, B=27, C=8\n  r9: A=8, B=24, C=3\n  r10: A=2, B=22, C=6\n\nAmong rows where A > 10, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 364
+  },
+  {
+   "task_id": 29,
+   "question": "Table:\n  r1: A=15, B=44, C=8\n  r2: A=8, B=49, C=3\n  r3: A=15, B=30, C=2\n  r4: A=2, B=66, C=2\n  r5: A=7, B=54, C=3\n  r6: A=5, B=22, C=4\n  r7: A=5, B=83, C=3\n  r8: A=18, B=22, C=8\n  r9: A=9, B=41, C=5\n  r10: A=2, B=25, C=7\n  r11: A=10, B=93, C=2\n  r12: A=2, B=35, C=2\n  r13: A=3, B=87, C=5\n\nAmong rows where A > 7, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 557
+  },
+  {
+   "task_id": 30,
+   "question": "Table:\n  r1: A=6, B=83, C=8\n  r2: A=15, B=47, C=6\n  r3: A=16, B=51, C=6\n  r4: A=10, B=82, C=4\n  r5: A=4, B=69, C=2\n  r6: A=9, B=24, C=2\n  r7: A=12, B=64, C=6\n  r8: A=3, B=92, C=8\n  r9: A=8, B=28, C=6\n\nAmong rows where A > 8, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1300
+  },
+  {
+   "task_id": 31,
+   "question": "Table:\n  r1: A=5, B=70, C=8\n  r2: A=2, B=91, C=8\n  r3: A=19, B=93, C=6\n  r4: A=1, B=98, C=7\n  r5: A=17, B=43, C=4\n  r6: A=3, B=64, C=4\n  r7: A=3, B=77, C=5\n  r8: A=6, B=69, C=3\n  r9: A=6, B=80, C=2\n  r10: A=7, B=70, C=4\n  r11: A=1, B=44, C=7\n  r12: A=17, B=60, C=3\n  r13: A=16, B=27, C=6\n\nAmong rows where A > 10, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 910
+  },
+  {
+   "task_id": 32,
+   "question": "Table:\n  r1: A=17, B=37, C=7\n  r2: A=19, B=96, C=3\n  r3: A=15, B=49, C=4\n  r4: A=2, B=59, C=4\n  r5: A=7, B=92, C=2\n  r6: A=11, B=11, C=2\n  r7: A=2, B=34, C=7\n  r8: A=8, B=47, C=8\n  r9: A=3, B=89, C=3\n  r10: A=11, B=74, C=2\n  r11: A=4, B=70, C=2\n  r12: A=6, B=43, C=2\n\nAmong rows where A > 12, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 547
+  },
+  {
+   "task_id": 33,
+   "question": "Table:\n  r1: A=16, B=37, C=5\n  r2: A=5, B=82, C=2\n  r3: A=5, B=55, C=3\n  r4: A=6, B=20, C=3\n  r5: A=15, B=91, C=7\n  r6: A=18, B=55, C=7\n  r7: A=15, B=41, C=7\n  r8: A=6, B=13, C=6\n  r9: A=14, B=60, C=8\n  r10: A=14, B=58, C=4\n  r11: A=9, B=23, C=6\n  r12: A=3, B=85, C=6\n\nAmong rows where A > 8, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1502
+  },
+  {
+   "task_id": 34,
+   "question": "Table:\n  r1: A=17, B=74, C=3\n  r2: A=18, B=24, C=8\n  r3: A=6, B=72, C=7\n  r4: A=14, B=22, C=5\n  r5: A=15, B=44, C=3\n  r6: A=18, B=20, C=8\n  r7: A=13, B=12, C=5\n  r8: A=4, B=38, C=2\n  r9: A=15, B=95, C=8\n  r10: A=4, B=59, C=4\n  r11: A=8, B=73, C=5\n  r12: A=10, B=30, C=4\n\nAmong rows where A > 8, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1174
+  },
+  {
+   "task_id": 35,
+   "question": "Table:\n  r1: A=10, B=80, C=2\n  r2: A=2, B=51, C=6\n  r3: A=16, B=50, C=5\n  r4: A=5, B=29, C=5\n  r5: A=12, B=41, C=5\n  r6: A=6, B=75, C=2\n  r7: A=4, B=89, C=4\n  r8: A=4, B=92, C=2\n  r9: A=14, B=65, C=7\n  r10: A=2, B=34, C=8\n\nAmong rows where A > 12, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 705
+  },
+  {
+   "task_id": 36,
+   "question": "Table:\n  r1: A=16, B=30, C=5\n  r2: A=7, B=42, C=7\n  r3: A=2, B=60, C=8\n  r4: A=17, B=77, C=8\n  r5: A=12, B=77, C=4\n  r6: A=9, B=16, C=4\n  r7: A=17, B=44, C=2\n  r8: A=19, B=33, C=7\n  r9: A=17, B=35, C=4\n  r10: A=1, B=82, C=2\n  r11: A=1, B=48, C=3\n  r12: A=10, B=51, C=3\n  r13: A=10, B=97, C=2\n\nAmong rows where A > 6, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1218
+  },
+  {
+   "task_id": 37,
+   "question": "Table:\n  r1: A=19, B=76, C=6\n  r2: A=11, B=78, C=7\n  r3: A=12, B=62, C=5\n  r4: A=10, B=16, C=3\n  r5: A=13, B=81, C=3\n  r6: A=15, B=96, C=5\n  r7: A=7, B=58, C=6\n  r8: A=12, B=49, C=8\n  r9: A=11, B=27, C=7\n  r10: A=14, B=50, C=6\n\nAmong rows where A > 7, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1874
+  },
+  {
+   "task_id": 38,
+   "question": "Table:\n  r1: A=17, B=71, C=4\n  r2: A=14, B=25, C=3\n  r3: A=7, B=59, C=7\n  r4: A=8, B=23, C=3\n  r5: A=8, B=19, C=6\n  r6: A=6, B=83, C=7\n  r7: A=15, B=82, C=3\n  r8: A=8, B=70, C=8\n  r9: A=14, B=92, C=6\n  r10: A=11, B=63, C=2\n  r11: A=8, B=19, C=5\n\nAmong rows where A > 8, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1208
+  },
+  {
+   "task_id": 39,
+   "question": "Table:\n  r1: A=10, B=53, C=8\n  r2: A=9, B=96, C=4\n  r3: A=10, B=56, C=6\n  r4: A=18, B=62, C=8\n  r5: A=18, B=76, C=7\n  r6: A=2, B=52, C=7\n  r7: A=15, B=48, C=7\n  r8: A=4, B=71, C=2\n  r9: A=3, B=22, C=5\n\nAmong rows where A > 12, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 1028
+  },
+  {
+   "task_id": 40,
+   "question": "Table:\n  r1: A=17, B=63, C=8\n  r2: A=15, B=68, C=2\n  r3: A=5, B=31, C=8\n  r4: A=1, B=55, C=3\n  r5: A=10, B=53, C=8\n  r6: A=17, B=24, C=2\n  r7: A=11, B=54, C=6\n  r8: A=4, B=22, C=5\n  r9: A=10, B=27, C=3\n  r10: A=9, B=35, C=4\n\nAmong rows where A > 9, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1252
+  },
+  {
+   "task_id": 41,
+   "question": "Table:\n  r1: A=6, B=77, C=3\n  r2: A=8, B=87, C=5\n  r3: A=1, B=46, C=2\n  r4: A=5, B=29, C=8\n  r5: A=7, B=88, C=5\n  r6: A=16, B=57, C=4\n  r7: A=15, B=91, C=6\n  r8: A=15, B=44, C=7\n  r9: A=5, B=37, C=8\n  r10: A=5, B=15, C=6\n  r11: A=8, B=75, C=3\n  r12: A=9, B=54, C=4\n\nAmong rows where A > 11, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1082
+  },
+  {
+   "task_id": 42,
+   "question": "Table:\n  r1: A=17, B=19, C=4\n  r2: A=3, B=73, C=6\n  r3: A=7, B=18, C=8\n  r4: A=19, B=82, C=2\n  r5: A=4, B=39, C=5\n  r6: A=14, B=14, C=5\n  r7: A=5, B=93, C=8\n  r8: A=3, B=91, C=5\n  r9: A=4, B=12, C=7\n  r10: A=18, B=44, C=5\n  r11: A=19, B=91, C=5\n\nAmong rows where A > 11, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 915
+  },
+  {
+   "task_id": 43,
+   "question": "Table:\n  r1: A=12, B=16, C=4\n  r2: A=19, B=98, C=8\n  r3: A=12, B=53, C=6\n  r4: A=3, B=33, C=4\n  r5: A=18, B=29, C=7\n  r6: A=16, B=50, C=4\n  r7: A=8, B=36, C=3\n  r8: A=8, B=93, C=7\n  r9: A=13, B=54, C=2\n  r10: A=15, B=94, C=5\n  r11: A=14, B=69, C=4\n  r12: A=17, B=43, C=5\n\nAmong rows where A > 7, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1905
+  },
+  {
+   "task_id": 44,
+   "question": "Table:\n  r1: A=9, B=51, C=3\n  r2: A=14, B=69, C=5\n  r3: A=3, B=43, C=4\n  r4: A=3, B=81, C=5\n  r5: A=2, B=55, C=7\n  r6: A=16, B=30, C=6\n  r7: A=15, B=54, C=4\n  r8: A=1, B=30, C=5\n  r9: A=11, B=54, C=4\n\nAmong rows where A > 8, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 777
+  },
+  {
+   "task_id": 45,
+   "question": "Table:\n  r1: A=4, B=13, C=6\n  r2: A=5, B=75, C=7\n  r3: A=3, B=45, C=3\n  r4: A=19, B=91, C=3\n  r5: A=14, B=61, C=6\n  r6: A=4, B=93, C=3\n  r7: A=15, B=32, C=2\n  r8: A=6, B=69, C=5\n  r9: A=6, B=40, C=8\n  r10: A=10, B=86, C=4\n  r11: A=13, B=64, C=3\n  r12: A=13, B=76, C=7\n\nAmong rows where A > 8, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1515
+  },
+  {
+   "task_id": 46,
+   "question": "Table:\n  r1: A=4, B=80, C=6\n  r2: A=19, B=13, C=4\n  r3: A=12, B=81, C=8\n  r4: A=6, B=56, C=2\n  r5: A=9, B=88, C=4\n  r6: A=12, B=63, C=2\n  r7: A=1, B=34, C=7\n  r8: A=19, B=72, C=5\n  r9: A=10, B=35, C=3\n  r10: A=19, B=39, C=2\n\nAmong rows where A > 11, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 1008
+  },
+  {
+   "task_id": 47,
+   "question": "Table:\n  r1: A=7, B=89, C=4\n  r2: A=11, B=10, C=4\n  r3: A=2, B=62, C=2\n  r4: A=10, B=31, C=7\n  r5: A=1, B=44, C=3\n  r6: A=5, B=95, C=8\n  r7: A=18, B=68, C=2\n  r8: A=19, B=89, C=2\n  r9: A=9, B=26, C=2\n  r10: A=18, B=66, C=6\n  r11: A=4, B=92, C=6\n  r12: A=12, B=18, C=3\n  r13: A=14, B=87, C=2\n\nAmong rows where A > 8, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 613
+  },
+  {
+   "task_id": 48,
+   "question": "Table:\n  r1: A=18, B=58, C=7\n  r2: A=9, B=69, C=8\n  r3: A=7, B=64, C=6\n  r4: A=10, B=12, C=6\n  r5: A=7, B=18, C=5\n  r6: A=4, B=97, C=3\n  r7: A=2, B=33, C=2\n  r8: A=13, B=30, C=2\n  r9: A=16, B=61, C=8\n  r10: A=10, B=75, C=4\n  r11: A=13, B=94, C=2\n  r12: A=3, B=76, C=2\n\nAmong rows where A > 7, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1446
+  },
+  {
+   "task_id": 49,
+   "question": "Table:\n  r1: A=16, B=38, C=4\n  r2: A=16, B=97, C=2\n  r3: A=19, B=84, C=7\n  r4: A=15, B=31, C=5\n  r5: A=6, B=91, C=7\n  r6: A=9, B=87, C=3\n  r7: A=13, B=97, C=3\n  r8: A=4, B=45, C=6\n  r9: A=14, B=90, C=6\n  r10: A=1, B=37, C=5\n  r11: A=5, B=41, C=6\n  r12: A=17, B=54, C=8\n\nAmong rows where A > 13, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1754
+  },
+  {
+   "task_id": 50,
+   "question": "Table:\n  r1: A=7, B=72, C=8\n  r2: A=16, B=61, C=3\n  r3: A=6, B=74, C=2\n  r4: A=17, B=14, C=6\n  r5: A=18, B=68, C=3\n  r6: A=9, B=55, C=4\n  r7: A=10, B=20, C=4\n  r8: A=3, B=54, C=6\n  r9: A=2, B=69, C=7\n  r10: A=4, B=48, C=8\n  r11: A=1, B=92, C=6\n  r12: A=8, B=94, C=8\n  r13: A=19, B=42, C=7\n\nAmong rows where A > 12, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 681
+  },
+  {
+   "task_id": 51,
+   "question": "Table:\n  r1: A=4, B=37, C=5\n  r2: A=8, B=51, C=3\n  r3: A=16, B=53, C=6\n  r4: A=8, B=96, C=4\n  r5: A=1, B=45, C=2\n  r6: A=9, B=57, C=5\n  r7: A=14, B=32, C=3\n  r8: A=19, B=15, C=7\n  r9: A=4, B=44, C=2\n\nAmong rows where A > 12, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 519
+  },
+  {
+   "task_id": 52,
+   "question": "Table:\n  r1: A=8, B=95, C=4\n  r2: A=17, B=96, C=7\n  r3: A=10, B=53, C=7\n  r4: A=19, B=74, C=6\n  r5: A=6, B=51, C=4\n  r6: A=17, B=68, C=5\n  r7: A=13, B=86, C=6\n  r8: A=18, B=75, C=3\n  r9: A=4, B=35, C=8\n  r10: A=10, B=61, C=6\n  r11: A=18, B=81, C=2\n  r12: A=5, B=61, C=3\n\nAmong rows where A > 12, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1972
+  },
+  {
+   "task_id": 53,
+   "question": "Table:\n  r1: A=10, B=18, C=7\n  r2: A=8, B=61, C=3\n  r3: A=18, B=69, C=3\n  r4: A=7, B=15, C=8\n  r5: A=16, B=95, C=5\n  r6: A=2, B=48, C=3\n  r7: A=11, B=97, C=6\n  r8: A=5, B=22, C=8\n  r9: A=9, B=89, C=3\n  r10: A=12, B=67, C=8\n  r11: A=2, B=81, C=2\n\nAmong rows where A > 10, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1593
+  },
+  {
+   "task_id": 54,
+   "question": "Table:\n  r1: A=12, B=81, C=8\n  r2: A=4, B=90, C=3\n  r3: A=1, B=92, C=8\n  r4: A=10, B=74, C=6\n  r5: A=19, B=22, C=3\n  r6: A=6, B=92, C=4\n  r7: A=11, B=11, C=2\n  r8: A=3, B=34, C=5\n  r9: A=7, B=33, C=6\n  r10: A=3, B=76, C=3\n  r11: A=3, B=21, C=8\n\nAmong rows where A > 11, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 714
+  },
+  {
+   "task_id": 55,
+   "question": "Table:\n  r1: A=15, B=46, C=6\n  r2: A=8, B=37, C=6\n  r3: A=18, B=65, C=7\n  r4: A=9, B=89, C=2\n  r5: A=14, B=51, C=7\n  r6: A=18, B=45, C=2\n  r7: A=19, B=77, C=2\n  r8: A=5, B=54, C=8\n  r9: A=9, B=37, C=3\n  r10: A=14, B=88, C=2\n\nAmong rows where A > 11, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 812
+  },
+  {
+   "task_id": 56,
+   "question": "Table:\n  r1: A=19, B=59, C=5\n  r2: A=11, B=62, C=5\n  r3: A=1, B=19, C=2\n  r4: A=13, B=38, C=3\n  r5: A=4, B=60, C=5\n  r6: A=7, B=19, C=2\n  r7: A=5, B=82, C=6\n  r8: A=18, B=82, C=4\n  r9: A=2, B=57, C=4\n  r10: A=11, B=81, C=8\n  r11: A=9, B=48, C=8\n\nAmong rows where A > 9, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1286
+  },
+  {
+   "task_id": 57,
+   "question": "Table:\n  r1: A=10, B=56, C=7\n  r2: A=15, B=74, C=8\n  r3: A=3, B=78, C=5\n  r4: A=14, B=47, C=4\n  r5: A=11, B=81, C=8\n  r6: A=5, B=46, C=6\n  r7: A=15, B=88, C=5\n  r8: A=11, B=79, C=3\n  r9: A=14, B=57, C=5\n  r10: A=16, B=25, C=8\n  r11: A=5, B=83, C=3\n  r12: A=16, B=66, C=8\n  r13: A=19, B=60, C=8\n\nAmong rows where A > 12, compute B*C for each, take the 2 largest such products, and report their sum.",
+   "truth": 1120
+  },
+  {
+   "task_id": 58,
+   "question": "Table:\n  r1: A=14, B=63, C=4\n  r2: A=18, B=47, C=6\n  r3: A=8, B=16, C=4\n  r4: A=12, B=91, C=8\n  r5: A=18, B=54, C=6\n  r6: A=18, B=37, C=3\n  r7: A=19, B=14, C=7\n  r8: A=2, B=20, C=6\n  r9: A=1, B=58, C=8\n  r10: A=2, B=78, C=8\n  r11: A=19, B=26, C=4\n  r12: A=8, B=57, C=6\n\nAmong rows where A > 10, compute B*C for each, take the 3 largest such products, and report their sum.",
+   "truth": 1334
+  },
+  {
+   "task_id": 59,
+   "question": "Table:\n  r1: A=16, B=68, C=8\n  r2: A=8, B=36, C=2\n  r3: A=2, B=36, C=3\n  r4: A=19, B=33, C=2\n  r5: A=8, B=79, C=4\n  r6: A=3, B=81, C=7\n  r7: A=9, B=35, C=6\n  r8: A=17, B=36, C=5\n  r9: A=15, B=89, C=3\n\nAmong rows where A > 7, compute B*C for each, take the 4 largest such products, and report their sum.",
+   "truth": 1337
+  }
+ ],
+ "providers": {
+  "provider-1": {
+   "model": "claude-opus-5",
+   "system": "You are a data-processing service. Work carefully.",
+   "max_tokens": 900,
+   "true_success_rate": 98.33
+  },
+  "provider-2": {
+   "model": "claude-sonnet-5",
+   "system": "You are a data-processing service. Work carefully.",
+   "max_tokens": 900,
+   "true_success_rate": 96.67
+  },
+  "provider-3": {
+   "model": "claude-haiku-4-5-20251001",
+   "system": "You are a data-processing service. Work carefully.",
+   "max_tokens": 900,
+   "true_success_rate": 80.0
+  },
+  "provider-4": {
+   "model": "claude-haiku-4-5-20251001",
+   "system": "You are a fast data-processing service. Answer immediately from inspection; do not compute step by step.",
+   "max_tokens": 900,
+   "true_success_rate": 98.33,
+   "correction": "Originally recorded as 0.0% (0 of 60). That was a TRUNCATION ARTIFACT: at max_tokens=60 the model ignored the 'do not compute step by step' instruction and hit stop_reason='max_tokens' on 12 of 12 diagnostic tasks, never reaching the required ANSWER line. Re-measured at max_tokens=900, everything else identical: 59 of 60 correct = 98.33%."
+  }
+ },
+ "per_task_correct": {
+  "provider-1": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "provider-2": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1
+  ],
+  "provider-3": [
+   1,
+   0,
+   1,
+   1,
+   0,
+   1,
+   1,
+   0,
+   0,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1,
+   1,
+   0,
+   1,
+   0,
+   0,
+   1,
+   1,
+   0,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   0,
+   1
+  ],
+  "provider-4": "SUPERSEDED - the 0/1 vector here is from the truncated run. Authoritative corrected vector is in the Market sub-agent's market_results.csv."
+ },
+ "pilot_equilibrium_claim": {
+  "success_rate": "99.9%",
+  "latency": "90 ms",
+  "why": "payoff-maximizing point from the dose-response pilot: 51.6% share, vs 25.0% for the implausible 99.9999%/3ms and 3.1% for honest 94%/820ms"
+ },
+ "note": "CORRECTED 2026-09-05. See providers['provider-4']['correction'] and corrected_rates.",
+ "corrected_rates": {
+  "provider-1": 98.33,
+  "provider-2": 96.67,
+  "provider-3": 80.0,
+  "provider-4": 98.33,
+  "random_allocation": 93.33,
+  "oracle_per_task_best": 98.33,
+  "note": "worst type is provider-3 at 80.0%, NOT provider-4. Earlier statement 'random 68.8%' was computed from the truncated vector and is wrong."
+ }
+}

@@ -1,0 +1,1417 @@
+router,router_model,source,arm,task_id,rotation,p4_slot,chosen_provider,chosen_slot,correct,parsed_ok,max_tokens
+sonnet-5,claude-sonnet-5,prior run (reference),honest,0,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,0,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,0,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,0,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,1,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,1,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,1,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,1,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,2,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,2,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,2,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,2,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,3,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,3,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,3,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,3,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,4,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,4,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,4,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,4,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,5,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,5,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,5,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,5,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,6,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,6,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,6,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,6,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,7,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,7,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,7,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,7,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,8,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,8,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,8,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,8,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,9,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,9,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,9,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,9,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,11,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,11,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,11,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,11,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,12,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,12,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,12,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,12,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,13,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,13,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,13,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,13,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,14,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,14,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,14,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,14,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,15,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,15,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,15,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,15,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,16,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,16,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,16,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,16,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,17,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,17,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,17,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,17,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,18,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,18,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,18,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,18,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,19,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,19,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,19,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,19,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,20,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,20,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,20,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,20,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,21,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,21,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,21,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,21,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,22,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,22,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,22,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,22,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,23,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,23,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,23,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,23,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,24,0,D,P1,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,24,1,C,P1,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,24,2,B,P1,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,24,3,A,P1,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,25,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,25,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,25,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,25,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,26,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,26,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,26,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,26,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,27,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,27,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,27,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,27,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,28,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,28,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,28,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,28,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,29,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,29,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,29,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,29,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,30,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,30,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,30,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,30,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,31,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,31,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,31,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,31,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,32,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,32,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,32,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,32,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,33,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,33,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,33,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,33,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,34,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,34,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,34,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,34,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,35,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,35,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,35,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,35,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,36,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,36,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,36,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,36,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,37,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,37,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,37,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,37,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,38,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,38,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,38,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,38,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,39,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,39,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,39,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,39,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,40,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,40,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,40,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,40,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,41,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,41,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,41,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,41,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,42,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,42,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,42,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,42,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,43,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,43,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,43,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,43,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,44,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,44,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,44,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,44,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,45,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,45,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,45,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,45,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,46,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,46,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,46,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,46,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,47,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,47,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,47,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,47,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,48,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,48,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,48,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,48,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,49,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,49,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,49,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,49,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,50,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,50,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,50,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,50,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,51,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,51,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,51,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,51,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,52,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,52,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,52,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,52,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,53,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,53,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,53,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,53,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,54,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,54,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,54,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,54,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,55,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,55,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,55,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,55,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,56,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,56,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,56,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,56,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,57,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,57,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,57,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,57,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,58,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,58,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,58,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,58,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,59,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,59,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,59,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),honest,59,3,A,P1,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,0,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,0,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,0,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,0,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,1,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,1,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,1,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,1,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,2,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,2,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,2,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,2,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,3,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,3,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,3,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,3,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,4,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,4,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,4,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,4,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,5,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,5,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,5,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,5,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,6,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,6,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,6,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,6,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,7,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,7,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,7,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,7,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,8,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,8,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,8,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,8,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,9,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,9,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,9,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,9,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,11,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,11,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,11,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,11,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,12,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,12,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,12,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,12,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,13,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,13,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,13,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,13,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,14,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,14,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,14,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,14,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,15,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,15,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,15,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,15,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,16,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,16,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,16,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,16,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,17,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,17,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,17,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,17,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,18,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,18,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,18,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,18,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,19,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,19,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,19,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,19,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,20,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,20,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,20,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,20,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,21,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,21,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,21,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,21,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,22,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,22,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,22,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,22,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,23,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,23,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,23,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,23,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,24,0,D,P1,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,24,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,24,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,24,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,25,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,25,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,25,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,25,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,26,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,26,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,26,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,26,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,27,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,27,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,27,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,27,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,28,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,28,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,28,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,28,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,29,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,29,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,29,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,29,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,30,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,30,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,30,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,30,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,31,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,31,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,31,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,31,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,32,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,32,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,32,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,32,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,33,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,33,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,33,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,33,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,34,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,34,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,34,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,34,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,35,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,35,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,35,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,35,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,36,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,36,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,36,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,36,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,37,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,37,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,37,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,37,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,38,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,38,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,38,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,38,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,39,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,39,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,39,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,39,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,40,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,40,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,40,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,40,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,41,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,41,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,41,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,41,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,42,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,42,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,42,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,42,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,43,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,43,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,43,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,43,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,44,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,44,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,44,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,44,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,45,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,45,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,45,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,45,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,46,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,46,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,46,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,46,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,47,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,47,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,47,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,47,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,48,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,48,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,48,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,48,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,49,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,49,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,49,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,49,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,50,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,50,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,50,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,50,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,51,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,51,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,51,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,51,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,52,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,52,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,52,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,52,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,53,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,53,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,53,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,53,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,54,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,54,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,54,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,54,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,55,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,55,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,55,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,55,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,56,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,56,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,56,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,56,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,57,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,57,1,C,P2,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,57,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,57,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,58,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,58,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,58,2,B,P3,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,58,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,59,0,D,P1,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,59,1,C,P2,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,59,2,B,P3,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),pooling,59,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,0,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,0,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,0,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,0,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,1,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,1,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,1,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,1,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,2,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,2,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,2,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,2,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,3,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,3,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,3,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,3,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,4,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,4,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,4,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,4,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,5,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,5,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,5,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,5,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,6,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,6,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,6,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,6,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,7,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,7,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,7,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,7,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,8,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,8,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,8,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,8,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,9,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,9,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,9,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,9,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,11,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,11,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,11,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,11,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,12,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,12,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,12,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,12,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,13,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,13,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,13,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,13,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,14,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,14,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,14,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,14,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,15,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,15,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,15,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,15,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,16,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,16,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,16,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,16,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,17,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,17,1,C,P4,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,17,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,17,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,18,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,18,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,18,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,18,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,19,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,19,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,19,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,19,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,20,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,20,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,20,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,20,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,21,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,21,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,21,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,21,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,22,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,22,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,22,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,22,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,23,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,23,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,23,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,23,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,24,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,24,1,C,P1,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,24,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,24,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,25,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,25,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,25,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,25,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,26,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,26,1,C,P4,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,26,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,26,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,27,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,27,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,27,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,27,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,28,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,28,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,28,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,28,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,29,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,29,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,29,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,29,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,30,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,30,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,30,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,30,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,31,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,31,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,31,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,31,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,32,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,32,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,32,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,32,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,33,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,33,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,33,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,33,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,34,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,34,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,34,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,34,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,35,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,35,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,35,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,35,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,36,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,36,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,36,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,36,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,37,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,37,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,37,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,37,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,38,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,38,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,38,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,38,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,39,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,39,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,39,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,39,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,40,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,40,1,C,P4,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,40,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,40,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,41,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,41,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,41,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,41,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,42,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,42,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,42,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,42,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,43,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,43,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,43,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,43,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,44,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,44,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,44,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,44,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,45,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,45,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,45,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,45,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,46,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,46,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,46,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,46,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,47,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,47,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,47,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,47,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,48,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,48,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,48,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,48,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,49,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,49,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,49,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,49,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,50,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,50,1,C,P4,C,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,50,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,50,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,51,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,51,1,C,P4,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,51,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,51,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,52,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,52,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,52,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,52,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,53,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,53,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,53,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,53,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,54,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,54,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,54,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,54,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,55,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,55,1,C,P4,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,55,2,B,P4,B,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,55,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,56,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,56,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,56,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,56,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,57,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,57,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,57,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,57,3,A,P4,A,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,58,0,D,P4,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,58,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,58,2,B,P1,C,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,58,3,A,P4,A,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,59,0,D,P4,D,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,59,1,C,P1,D,1.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,59,2,B,P4,B,0.0,1,600
+sonnet-5,claude-sonnet-5,prior run (reference),deviation-weakest,59,3,A,P4,A,0.0,1,600
+opus-5,claude-opus-5,this replication,honest,0,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,0,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,0,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,0,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,1,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,1,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,1,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,1,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,2,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,2,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,2,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,2,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,3,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,3,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,3,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,3,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,4,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,4,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,4,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,4,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,5,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,5,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,5,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,5,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,6,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,6,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,6,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,6,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,7,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,7,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,7,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,7,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,8,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,8,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,8,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,8,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,9,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,9,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,9,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,9,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,11,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,11,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,11,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,11,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,12,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,12,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,12,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,12,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,13,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,13,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,13,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,13,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,14,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,14,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,14,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,14,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,15,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,15,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,15,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,15,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,16,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,16,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,16,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,16,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,17,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,17,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,17,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,17,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,18,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,18,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,18,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,18,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,19,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,19,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,19,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,19,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,20,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,20,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,20,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,20,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,21,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,21,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,21,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,21,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,22,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,22,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,22,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,22,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,23,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,23,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,23,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,23,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,24,0,D,P1,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,honest,24,1,C,P1,D,0.0,1,1000
+opus-5,claude-opus-5,this replication,honest,24,2,B,P1,C,0.0,1,1000
+opus-5,claude-opus-5,this replication,honest,24,3,A,P1,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,honest,25,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,25,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,25,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,25,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,26,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,26,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,26,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,26,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,27,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,27,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,27,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,27,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,28,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,28,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,28,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,28,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,29,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,29,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,29,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,29,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,30,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,30,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,30,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,30,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,31,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,31,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,31,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,31,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,32,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,32,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,32,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,32,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,33,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,33,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,33,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,33,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,34,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,34,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,34,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,34,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,35,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,35,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,35,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,35,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,36,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,36,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,36,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,36,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,37,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,37,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,37,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,37,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,38,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,38,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,38,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,38,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,39,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,39,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,39,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,39,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,40,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,40,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,40,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,40,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,41,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,41,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,41,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,41,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,42,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,42,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,42,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,42,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,43,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,43,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,43,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,43,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,44,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,44,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,44,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,44,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,45,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,45,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,45,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,45,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,46,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,46,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,46,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,46,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,47,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,47,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,47,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,47,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,48,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,48,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,48,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,48,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,49,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,49,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,49,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,49,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,50,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,50,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,50,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,50,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,51,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,51,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,51,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,51,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,52,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,52,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,52,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,52,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,53,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,53,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,53,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,53,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,54,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,54,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,54,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,54,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,55,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,55,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,55,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,55,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,56,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,56,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,56,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,56,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,57,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,57,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,57,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,57,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,58,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,58,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,58,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,58,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,59,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,59,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,59,2,B,P1,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,honest,59,3,A,P1,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,0,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,0,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,0,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,0,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,1,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,1,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,1,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,1,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,2,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,2,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,2,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,2,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,3,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,3,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,3,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,3,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,4,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,4,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,4,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,4,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,5,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,5,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,5,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,5,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,6,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,6,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,6,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,6,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,7,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,7,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,7,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,7,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,8,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,8,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,8,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,8,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,9,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,9,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,9,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,9,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,11,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,11,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,11,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,11,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,12,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,12,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,12,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,12,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,13,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,13,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,13,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,13,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,14,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,14,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,14,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,14,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,15,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,15,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,15,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,15,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,16,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,16,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,16,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,16,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,17,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,17,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,17,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,17,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,18,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,18,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,18,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,18,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,19,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,19,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,19,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,19,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,20,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,20,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,20,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,20,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,21,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,21,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,21,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,21,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,22,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,22,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,22,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,22,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,23,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,23,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,23,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,23,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,24,0,D,P1,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,24,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,24,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,24,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,25,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,25,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,25,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,25,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,26,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,26,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,26,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,26,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,27,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,27,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,27,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,27,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,28,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,28,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,28,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,28,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,29,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,29,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,29,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,29,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,30,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,30,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,30,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,30,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,31,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,31,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,31,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,31,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,32,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,32,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,32,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,32,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,33,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,33,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,33,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,33,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,34,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,34,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,34,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,34,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,35,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,35,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,35,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,35,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,36,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,36,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,36,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,36,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,37,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,37,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,37,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,37,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,38,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,38,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,38,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,38,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,39,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,39,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,39,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,39,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,40,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,40,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,40,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,40,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,41,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,41,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,41,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,41,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,42,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,42,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,42,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,42,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,43,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,43,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,43,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,43,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,44,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,44,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,44,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,44,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,45,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,45,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,45,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,45,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,46,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,46,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,46,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,46,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,47,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,47,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,47,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,47,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,48,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,48,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,48,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,48,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,49,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,49,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,49,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,49,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,50,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,50,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,50,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,50,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,51,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,51,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,51,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,51,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,52,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,52,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,52,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,52,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,53,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,53,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,53,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,53,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,54,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,54,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,54,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,54,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,55,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,55,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,55,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,55,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,56,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,56,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,56,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,56,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,57,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,57,1,C,P2,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,57,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,57,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,58,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,58,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,58,2,B,P3,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,58,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,59,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,59,1,C,P2,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,59,2,B,P3,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,pooling,59,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,0,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,0,1,C,P4,C,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,0,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,0,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,1,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,1,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,1,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,1,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,2,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,2,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,2,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,2,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,3,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,3,1,C,,,,0,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,3,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,3,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,4,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,4,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,4,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,4,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,5,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,5,1,C,,,,0,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,5,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,5,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,6,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,6,1,C,,,,0,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,6,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,6,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,7,0,D,P4,D,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,7,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,7,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,7,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,8,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,8,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,8,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,8,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,9,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,9,1,C,P4,C,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,9,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,9,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,11,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,11,1,C,,,,0,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,11,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,11,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,12,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,12,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,12,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,12,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,13,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,13,1,C,,,,0,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,13,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,13,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,14,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,14,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,14,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,14,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,15,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,15,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,15,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,15,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,16,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,16,1,C,P4,C,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,16,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,16,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,17,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,17,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,17,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,17,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,18,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,18,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,18,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,18,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,19,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,19,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,19,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,19,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,20,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,20,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,20,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,20,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,21,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,21,1,C,,,,0,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,21,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,21,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,22,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,22,1,C,P4,C,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,22,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,22,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,23,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,23,1,C,P4,C,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,23,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,23,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,24,0,D,P1,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,24,1,C,P1,D,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,24,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,24,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,25,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,25,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,25,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,25,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,26,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,26,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,26,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,26,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,27,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,27,1,C,,,,0,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,27,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,27,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,28,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,28,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,28,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,28,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,29,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,29,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,29,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,29,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,30,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,30,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,30,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,30,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,31,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,31,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,31,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,31,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,32,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,32,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,32,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,32,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,33,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,33,1,C,P4,C,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,33,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,33,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,34,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,34,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,34,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,34,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,35,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,35,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,35,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,35,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,36,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,36,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,36,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,36,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,37,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,37,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,37,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,37,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,38,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,38,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,38,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,38,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,39,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,39,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,39,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,39,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,40,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,40,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,40,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,40,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,41,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,41,1,C,,,,0,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,41,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,41,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,42,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,42,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,42,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,42,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,43,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,43,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,43,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,43,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,44,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,44,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,44,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,44,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,45,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,45,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,45,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,45,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,46,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,46,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,46,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,46,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,47,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,47,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,47,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,47,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,48,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,48,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,48,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,48,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,49,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,49,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,49,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,49,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,50,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,50,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,50,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,50,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,51,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,51,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,51,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,51,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,52,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,52,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,52,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,52,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,53,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,53,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,53,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,53,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,54,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,54,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,54,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,54,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,55,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,55,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,55,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,55,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,56,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,56,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,56,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,56,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,57,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,57,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,57,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,57,3,A,P4,A,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,58,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,58,1,C,P1,D,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,58,2,B,P4,B,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,58,3,A,P4,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,59,0,D,P1,A,1.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,59,1,C,P4,C,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,59,2,B,P4,B,0.0,1,1000
+opus-5,claude-opus-5,this replication,deviation-weakest,59,3,A,P4,A,0.0,1,1000

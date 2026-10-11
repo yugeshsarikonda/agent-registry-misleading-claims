@@ -1,0 +1,20 @@
+{
+ "tasks/market_ground_truth.json": "8010bbce-7795-44e1-916a-f6e3d903528c",
+ "provider_outputs/pop2_competence.csv": "2bfc97e5-90de-49f3-b0f6-7514c9d0886c",
+ "provider_outputs/provider_measurement_trials.csv": "262bcd5a-8b92-4155-a8e0-85c1493a6082",
+ "provider_outputs/pop2_ladder.csv": "ed6e0bdc-88c4-4c66-8b6e-324ef0bc5fd6",
+ "router_decisions/pop2_arms_summary.csv": "dec52db6-8448-4214-86ef-d585976a078f",
+ "router_decisions/pop2_screening.csv": "ed03f7f8-dd96-4f57-b57f-9c9982c08a21",
+ "router_decisions/pop2_bond_summary.csv": "51ceecd4-45bb-42ff-813e-03a2f3f25171",
+ "router_decisions/pop2_price_surplus.csv": "3498a1bc-fdbd-4882-9584-13083b89715f",
+ "router_decisions/router_replication.csv": "2e9838f1-3332-4284-a465-c1f7c493c21f",
+ "router_decisions/dynamics_results.csv": "eba0f635-765b-4a47-99de-e17a58db1186",
+ "router_decisions/scale_summary.csv": "b6bccd22-49ee-48fa-9e62-b608a99f23a1",
+ "router_decisions/heldout_trials.csv": "e0a55e37-27d1-4628-b088-91f9fcd3fccc",
+ "router_decisions/heldout_summary.csv": "86e82a13-74ee-4c98-bc99-c36ea92f278d",
+ "router_decisions/heldout_screening.csv": "b85b7536-d81b-4ca7-bd27-42159441911f",
+ "router_decisions/heldout_screening_summary.csv": "d337bc6f-183b-4bd9-9ba4-5e2d650d10dc",
+ "router_decisions/heldout_deposit.csv": "306cc3f1-8c59-47c3-850d-10eabdc58dfb",
+ "router_decisions/burnin_trials.csv": "12119b80-0d01-409e-969d-709af0cf22c7",
+ "tasks/heldout_split.json": "388ef00e-f01b-47c7-919b-ac143e1839a2"
+}
