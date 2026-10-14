@@ -1,0 +1,214 @@
+{
+ "measured_all59": {
+  "P1": 98.31,
+  "P2": 76.27,
+  "P3": 50.85,
+  "P4": 32.2
+ },
+ "measured_heldout": {
+  "P1": 96.55,
+  "P2": 72.41,
+  "P3": 48.28,
+  "P4": 31.03
+ },
+ "claimed_heldout_jeffreys": {
+  "P1": 98.4,
+  "P2": 79.0,
+  "P3": 53.2,
+  "P4": 33.9
+ },
+ "uniform_all59": 64.41,
+ "uniform_heldout": 62.07,
+ "paired_differences": {
+  "heldout sonnet weakest vs uniform": {
+   "diff": -23.28,
+   "lo": -32.76,
+   "hi": -14.66
+  },
+  "heldout gpt-4o weakest vs uniform": {
+   "diff": -31.03,
+   "lo": -40.52,
+   "hi": -21.55
+  },
+  "all59 sonnet weakest vs uniform": {
+   "diff": -22.88,
+   "lo": -29.66,
+   "hi": -16.53
+  },
+  "all59 opus weakest vs uniform": {
+   "diff": -3.44,
+   "lo": -8.89,
+   "hi": 1.73
+  },
+  "all59 opus weakest vs best-provider": {
+   "diff": -37.34,
+   "lo": -44.49,
+   "hi": -30.13
+  },
+  "heldout check worst observed vs uniform": {
+   "diff": -14.85,
+   "lo": -23.45,
+   "hi": -7.43
+  },
+  "all59 check largest claim vs uniform": {
+   "diff": -20.41,
+   "lo": -25.22,
+   "hi": -15.5
+  }
+ },
+ "all59_single": {
+  "deviation-P2": {
+   "success": 87.39,
+   "lo": 74.58,
+   "hi": 97.46,
+   "n_readable": 119,
+   "n_attempted": 120
+  },
+  "deviation-P3": {
+   "success": 59.66,
+   "lo": 42.5,
+   "hi": 75.83,
+   "n_readable": 119,
+   "n_attempted": 120
+  }
+ },
+ "boundary_raw_calibration": {
+  "success": 67.24,
+  "lo": 56.03,
+  "hi": 77.59,
+  "n_readable": 116,
+  "n_attempted": 116,
+  "P4_assignments": "52/116"
+ },
+ "deposit_boundaries": {
+  "P4 stops exaggerating (from all exaggerate)": {
+   "B": 1.45,
+   "lo": 1.16,
+   "hi": 1.93
+  },
+  "P3 stops exaggerating": {
+   "B": 1.93,
+   "lo": 1.45,
+   "hi": 2.9
+  },
+  "P2 stops exaggerating (claim rule)": {
+   "B": 3.37,
+   "lo": 1.93,
+   "hi": 8.99
+  },
+  "all-honest listings stable from": {
+   "B": 3.56,
+   "lo": 2.19,
+   "hi": 9.25
+  }
+ },
+ "unilateral_thresholds": {
+  "P2": {
+   "assignments": 114,
+   "failures": 32,
+   "threshold": 3.56,
+   "formula_1_over_1_minus_theta": 3.62
+  },
+  "P3": {
+   "assignments": 107,
+   "failures": 57,
+   "threshold": 1.88,
+   "formula_1_over_1_minus_theta": 1.93
+  },
+  "P4": {
+   "assignments": 105,
+   "failures": 71,
+   "threshold": 1.48,
+   "formula_1_over_1_minus_theta": 1.45
+  }
+ },
+ "displayed_deposit": {
+  "deviation-weakest+bond1": {
+   "tasks": 20,
+   "displayed": "67/78",
+   "not_displayed_same_tasks": "62/80",
+   "diff": 8.4,
+   "lo": 0.0,
+   "hi": 17.11
+  },
+  "deviation-weakest+bond4": {
+   "tasks": 20,
+   "displayed": "72/76",
+   "not_displayed_same_tasks": "62/80",
+   "diff": 17.24,
+   "lo": 12.02,
+   "hi": 22.3
+  }
+ },
+ "observation_period": {
+  "P1": {
+   "assignments": 30,
+   "observed_pct": 100.0
+  },
+  "P2": {
+   "assignments": 30,
+   "observed_pct": 80.0
+  },
+  "P3": {
+   "assignments": 30,
+   "observed_pct": 53.3
+  },
+  "P4": {
+   "assignments": 30,
+   "observed_pct": 33.3
+  }
+ },
+ "checking_all59": {
+  "attest_best_v25": {
+   "success": 98.31,
+   "lo": 94.92,
+   "hi": 100.0,
+   "n_readable": 236,
+   "n_attempted": 236
+  },
+  "attest_random_v25": {
+   "success": 70.87,
+   "lo": 60.17,
+   "hi": 81.3,
+   "n_readable": 230,
+   "n_attempted": 236
+  },
+  "attest_loudest_v25": {
+   "success": 44.0,
+   "lo": 32.89,
+   "hi": 55.2,
+   "n_readable": 225,
+   "n_attempted": 236
+  }
+ },
+ "opus": {
+  "honest": {
+   "success": 98.31,
+   "lo": 94.92,
+   "hi": 100.0,
+   "n_readable": 236,
+   "n_attempted": 236
+  },
+  "pooling": {
+   "success": 64.41,
+   "lo": 56.78,
+   "hi": 71.61,
+   "n_readable": 236,
+   "n_attempted": 236
+  },
+  "deviation-weakest": {
+   "success": 60.96,
+   "lo": 53.48,
+   "hi": 68.56,
+   "n_readable": 228,
+   "n_attempted": 236
+  }
+ },
+ "opus_position": {
+  "P4 listed A": "59/59",
+  "P4 listed B": "59/59",
+  "P4 listed C": "7/51",
+  "P4 listed D": "1/59"
+ },
+ "opus_P4_assignments": "126/228"
+}

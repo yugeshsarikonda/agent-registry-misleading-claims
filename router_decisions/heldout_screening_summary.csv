@@ -1,4 +1,0 @@
-policy,n_readable,success_pct,ci95,chose_checked,best_chosen,slotA,parse_fail
-check_random,113,68.14,"[59.29, 76.11]",93/113,43/116,49/116,3
-check_worst_observed,108,47.22,"[37.96, 56.48]",70/108,16/116,66/116,8
-check_best_observed,116,96.55,"[93.10, 99.14]",116/116,116/116,29/116,0

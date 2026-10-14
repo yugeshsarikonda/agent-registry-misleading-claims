@@ -1,0 +1,13 @@
+condition,setting,success,lo,hi,n_readable,n_attempted,exaggerator_assignments
+all honest,all59 sonnet,98.31,94.92,100.0,236,236,
+all honest,heldout sonnet,96.55,89.66,100.0,116,116,
+all honest,heldout gpt-4o,95.69,87.93,100.0,116,116,
+strongest exaggerates,all59 sonnet,97.88,94.07,100.0,236,236,235/236
+strongest exaggerates,heldout sonnet,94.74,86.21,100.0,114,116,112/114
+strongest exaggerates,heldout gpt-4o,96.55,89.66,100.0,116,116,116/116
+all exaggerate,all59 sonnet,64.41,56.78,71.61,236,236,
+all exaggerate,heldout sonnet,62.07,50.86,73.28,116,116,
+all exaggerate,heldout gpt-4o,62.07,50.86,73.28,116,116,
+weakest exaggerates,all59 sonnet,41.53,30.93,52.54,236,236,197/236
+weakest exaggerates,heldout sonnet,38.79,24.14,54.31,116,116,105/116
+weakest exaggerates,heldout gpt-4o,31.03,13.79,48.28,116,116,116/116

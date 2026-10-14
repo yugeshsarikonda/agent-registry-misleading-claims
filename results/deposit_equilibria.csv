@@ -1,0 +1,13 @@
+rule,B_from,B_to,stable_profiles
+claim,0.0,1.45,P1+P2+P3+P4
+claim,1.45,1.46,P1+P2+P3 | P1+P2+P3+P4
+claim,1.46,1.94,P1+P2+P3
+claim,1.94,3.38,P1+P2
+claim,3.38,3.57,(none)
+claim,3.57,6.0,none
+all,0.0,1.45,P1+P2+P3+P4
+all,1.45,1.46,P1+P2+P3 | P1+P2+P3+P4
+all,1.46,1.94,P1+P2+P3
+all,1.94,3.57,P1+P2
+all,3.57,3.63,P1+P2 | none
+all,3.63,6.0,none

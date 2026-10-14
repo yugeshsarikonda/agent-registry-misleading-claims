@@ -1,52 +1,73 @@
-# Misleading Claims in Agent Registries — data release
+# Misleading Claims in Agent Registries: data and analysis (release v1.1-camera-ready)
 
-Everything behind the reported numbers: the task set, the exact prompts, every provider
-answer with its correctness label, and every router decision.
+Everything behind the reported numbers: the generated tasks, the exact prompts, every provider
+answer with its correctness label, the routing trials, and one script that rebuilds every table,
+interval and figure in the paper.
 
-    tasks/              the generated table problems with their correct answers,
-                        and the calibration/evaluation split used in the held-out test
-    prompts/            the prompt templates, verbatim, as executed
-    provider_outputs/   each provider's answer and correctness label on every task
-    router_decisions/   every routing trial: condition, task, rotation, displayed order,
-                        chosen slot, chosen provider, whether the reply was readable,
-                        and whether the chosen provider solved that task
+    tasks/              generated table problems with correct answers; calibration/evaluation split
+    prompts/            prompt templates, verbatim, as executed
+    provider_outputs/   provider configuration (row limits) and each provider's answer on every task
+    router_decisions/   routing trials: condition, task, rotation, displayed order, chosen position,
+                        chosen provider, whether the reply was readable, whether the choice was correct
+    rq1/                aggregate counts for the RQ1 listing comparisons
+    analysis/           analysis.py (tables, intervals, deposit analysis), make_figures.py (figures)
+    results/            outputs of analysis.py
+    figures/            outputs of make_figures.py
 
-## Task set
+## Reproducing the paper's numbers
 
-60 generated table problems are in `tasks/market_ground_truth.json`. The paper uses 59 of
-them; task_id 10 is excluded. Each entry holds the question text and the correct integer answer.
-A provider is a fixed agent configuration that may read only the first K rows of the table, so
-competence differs without the task, the prompt or the answer format changing.
+    pip install -r requirements.txt
+    python analysis/analysis.py
+    python analysis/make_figures.py
 
-## Prompts
+Both scripts run in about a second on a laptop. Re-running the hosted models will not reproduce
+individual trials exactly; the files here are the record of what was run.
 
-`prompts/prompts_core.py` holds the provider prompt, the router prompt, the listing template and
-the answer rule used in the main conditions. `prompts/prompts_screening.py` holds the variants
-used in the checking experiments, including the [verified] tag and the two notes shown to the
-router. These are the templates as executed, not reconstructions.
+## Uncertainty and denominators
 
-## Reading the router files
+Every interval is a central 95% percentile interval from 10,000 bootstrap resamples of tasks (seed 0).
+All rotations of a task move together, and each resample's task success is total successes over total
+readable trials. Comparisons with the uniform or best-provider rate are paired on the same resampled
+tasks. Held-out intervals are conditional on the single split in `tasks/heldout_split.json`.
 
-A listing is one provider's advertised text. A trial is one task shown to the router under one
-rotation of listing positions. `chosen_provider` is the routing decision; `realised_correct` is
-whether that provider's recorded answer for that task was right. Shares are reported over
-readable trials, and the attempted count is given alongside, so unreadable replies are visible
-rather than silently dropped.
+Every share and every rate is over trials with a readable answer line; the attempted count is reported
+beside it (`n_attempted` in the results files). A condition with 116 attempted trials and 114 readable
+reports, for example, 112/114.
 
-`heldout_*` files are the held-out test: advertised rates estimated on 30 calibration tasks,
-routing scored on 29 disjoint evaluation tasks. `burnin_trials.csv` is the observation block that
-lets a registry identify its best provider from its own routing outcomes.
+## Map from paper to files
 
-`heldout_router_gpt4o.csv` repeats the four held-out market conditions with gpt-4o (Azure OpenAI
-Responses API, 600 output tokens, default sampling) as router; `heldout_router_comparison.csv`
-sets it beside the claude-sonnet-5 held-out results.
+| Paper item | Source trials | Output |
+|---|---|---|
+| Table 1, Figure 2a | `router_decisions/pop2_arms.csv`, `heldout_trials.csv`, `heldout_router_gpt4o.csv` | `results/table1_market.csv` |
+| Paired differences (RQ2, RQ5) | as above, `router_replication.csv` | `results/summary.json` → `paired_differences` |
+| Figure 2b | `heldout_trials.csv` (single-exaggerator conditions) | `results/fig1b_single_exaggerator.csv` |
+| Table 2, Figure 2c, Table 4 (all 16 listing combinations) | `heldout_trials.csv`, `heldout_deposit_profiles.csv`, `heldout_deposit_profiles_extra.csv` | `results/deposit_profiles.csv`, `results/deposit_equilibria.csv`, `summary.json` → `deposit_boundaries` |
+| Displayed deposit | `pop2_arms.csv` (`deviation-weakest+bond1`, `+bond4`) | `summary.json` → `displayed_deposit` |
+| Table 3 (checking), observation period | `heldout_screening.csv`, `burnin_trials.csv` | `results/table2_checking.csv`, `summary.json` → `observation_period` |
+| Earlier checking rules (appendix) | `pop2_screening.csv` (`run == primary`) | `summary.json` → `checking_all59` |
+| Checking sweep, Figure 3 | `scale_results.csv` | `results/coverage_sweep.csv` |
+| Opus comparison | `router_replication.csv` | `summary.json` → `opus`, `opus_position` |
+| Figure 1 (RQ1) | `rq1/rq1_counts.json` | `figures/fig2_claims.png` |
+| Turn-taking game (appendix) | `dynamics_results.csv` | assignments as recorded |
+| Provider row limits and measured rates | `provider_outputs/pop2_ladder.csv`, `pop2_competence.csv` | `summary.json` → `measured_*` |
 
-## Reproducing
+The RQ1 comparisons asked the router for a single letter; their per-trial records were not retained,
+and `rq1/rq1_counts.json` gives the counts by listing and by position recovered from the run log.
+`router_decisions/pop2_bond_summary.csv` and `pop2_arms_summary.csv` are summaries written during the
+original runs and are kept for reference; the paper's numbers come from `analysis.py`.
 
-Provider answers and router decisions were produced by calls to hosted language models. Re-running
-will not reproduce the trial-level rows exactly. The files here are the record of what was run.
+## Deposit analysis
 
-## License
+Deposits are settled on recorded outcomes. No provider chose its listing in response to a deposit.
+`deposit_equilibria.csv` lists, for each deposit level and each settlement rule, the combinations of
+listings from which no provider gains by switching its own listing and in which no provider earns less
+than zero. The market after a provider leaves was not run.
 
-Released under **CC BY 4.0** (`LICENSE`). Retain attribution to Yugesh Sarikonda when reusing
-these materials.
+## Configuration
+
+Providers: `claude-sonnet-5`, 900 output tokens, API-default temperature, one system prompt (see
+`prompts/prompts_core.py`); P1 reads all rows, P2, P3 and P4 read the first 11, 9 and 8.
+Routers: `claude-sonnet-5` (600 output tokens), `claude-opus-5` (1000), `gpt-4o` via the Azure OpenAI
+Responses API (600), all at the API's default temperature.
+
+Licence: CC BY 4.0.

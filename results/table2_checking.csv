@@ -1,0 +1,4 @@
+policy,success,lo,hi,n_readable,n_attempted,chose_checked,chose_P1,first_position
+check_best_observed,96.55,89.66,100.0,116,116,116/116,116/116,29/116
+check_random,68.14,52.63,82.61,113,116,93/113,43/113,49/113
+check_worst_observed,47.22,33.64,61.54,108,116,70/108,16/108,66/108

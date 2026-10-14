@@ -1,0 +1,54 @@
+{
+ "note": "Aggregate counts for the RQ1 listing comparisons on claude-sonnet-5 (192 trials each: 8 task types x 24 orderings, no missing replies). Recovered from the run log; per-trial records for these comparisons were not retained.",
+ "superlatives_equal_length": {
+  "selected_by_level": {
+   "0": 163,
+   "1": 29,
+   "2": 0,
+   "3": 0
+  },
+  "selected_by_position": {
+   "A": 65,
+   "B": 37,
+   "C": 40,
+   "D": 50
+  },
+  "n": 192
+ },
+ "numerical_claims": {
+  "levels": {
+   "0": "94% / 820 ms",
+   "1": "97% / 610 ms",
+   "2": "99.5% / 240 ms",
+   "3": "99.9% / 90 ms"
+  },
+  "selected_by_level": {
+   "0": 4,
+   "1": 4,
+   "2": 24,
+   "3": 160
+  },
+  "selected_by_position": {
+   "A": 52,
+   "B": 32,
+   "C": 48,
+   "D": 60
+  },
+  "n": 192
+ },
+ "extreme_claim": {
+  "levels": {
+   "0": "94% / 820 ms",
+   "1": "99.5% / 240 ms",
+   "2": "99.9% / 90 ms",
+   "3": "99.9999% / 3 ms"
+  },
+  "selected_by_level": {
+   "0": 6,
+   "1": 39,
+   "2": 99,
+   "3": 48
+  },
+  "n": 192
+ }
+}

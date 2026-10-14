@@ -62,13 +62,5 @@ def rotations(items, n_rot):
     """n_rot cyclic rotations of a list of providers -> list of orderings."""
     return [items[i:] + items[:i] for i in range(n_rot)]
 
-def boot_ci(vals, n=5000, seed=0):
-    import random as _r
-    rnd = _r.Random(seed)
-    if not vals: return (float("nan"), float("nan"))
-    m = len(vals)
-    means = []
-    for _ in range(n):
-        means.append(sum(vals[rnd.randrange(m)] for _ in range(m)) / m)
-    means.sort()
-    return (100*means[int(0.025*n)], 100*means[int(0.975*n)-1])
+# The trial-level bootstrap helper used during the runs was removed: it resampled individual trials,
+# not tasks. analysis/analysis.py computes every reported interval with a task-clustered bootstrap.

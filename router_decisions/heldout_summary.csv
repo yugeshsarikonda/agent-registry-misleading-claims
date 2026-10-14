@@ -1,5 +1,0 @@
-arm,n,heldout_pct,ci95,submitted_sametask,below_best_pp,below_uniform_pp,exaggerator_share,parse_fail
-honest,116,96.55,"[93.10, 99.14]",98.31,0.0,-34.48,-,0
-strongest exaggerates,114,94.74,"[90.35, 98.25]",97.88,1.81,-32.67,112/114,2
-all exaggerate,116,62.07,"[53.45, 70.69]",64.41,34.48,-0.0,-,0
-weakest exaggerates,116,38.79,"[30.17, 47.41]",41.53,57.76,23.28,105/116,0
