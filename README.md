@@ -16,6 +16,25 @@ interval and figure in the paper.
 
 ## Reproducing the paper's numbers
 
+For a non-destructive check, use Python 3.11 and the pinned dependencies:
+
+```sh
+python3.11 -m venv .venv
+.venv/bin/python -m pip install -r requirements.txt
+.venv/bin/python -m unittest discover -s tests -v
+.venv/bin/python analysis/verify_release.py --regenerate
+```
+
+This checks the frozen files, the calibration/evaluation partition, and recorded
+held-out outcomes. It regenerates all seven saved numerical result files in a
+temporary directory and compares them with the release. It does not overwrite
+the reference results or call hosted models. See [verification scope and
+limitations](docs/REPRODUCIBILITY.md) for the checks, expected counts and data
+provenance. Without third-party dependencies, `python3 analysis/verify_release.py`
+still runs the integrity and record-consistency checks.
+
+To intentionally regenerate the release outputs in place, run:
+
     pip install -r requirements.txt
     python analysis/analysis.py
     python analysis/make_figures.py
